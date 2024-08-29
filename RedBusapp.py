@@ -3,7 +3,6 @@ import pandas as pd
 import mysql.connector
 import streamlit as slt
 from streamlit_option_menu import option_menu
-import plotly.express as px
 import time
 
 # kerala bus
